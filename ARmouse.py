@@ -152,7 +152,7 @@ while True:
                     autopy.key.tap(autopy.key.Code.UP_ARROW)
                     info[2] = 10
                 elif ((y4_old - y4_new) < (-1 * sense)):   #向下滚动
-                    autopy.key.tap(autopy.key.Code.UP_ARROW)
+                    autopy.key.tap(autopy.key.Code.DOWN_ARROW)
                     info[3] = 10
             y4_old = y4_new
             flag_updown = 1
