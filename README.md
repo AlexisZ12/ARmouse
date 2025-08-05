@@ -149,9 +149,7 @@ pip install opencv-python==4.3.038
 
 - Demonstrates how to use the product and our design philosophy.
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114975939106338&bvid=BV1ATtnz7ENJ&cid=31503746391&p=1"
-width="640" height="360"
-scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[ARmouse灵指空鼠](https://www.bilibili.com/video/BV1ATtnz7ENJ/?share_source=copy_web&vd_source=b222cdbe365757e99b2f310007175a94)
 
 <br>
 
