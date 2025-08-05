@@ -1,16 +1,22 @@
 # Introduce Site
 
+- You can find detailed information about this project on this site.
 https://alexisz12.github.io/ARmouse-site/  
-You can find detailed information about this project on this site.
+
+<br>
 
 # ARmouse
 
 - Welcome to use ARmouse. Here will tell you how to download and use the ARmouse. With this software, you can just move your hands and fingers to control the mouse.
 
+<br>
+
 # Download
 
 - Download the exe files in [quark](ttps://pan.quark.cn/s/5be2ee1480e6) or [github](https://github.com/AlexisZ12/ARmouseEXE)
 - If you want to know how it works, you can download the source codes in [github](https://github.com/AlexisZ12/ARmouse) as well.
+
+<br>
 
 # Preparations
 
@@ -22,6 +28,8 @@ pip install keyboard==0.13.5
 pip install mediapipe==0.8.3.1
 pip install opencv-python==4.3.038
 ```
+
+<br>
 
 # Usage
 
@@ -143,17 +151,12 @@ pip install opencv-python==4.3.038
 
 - If you want to end the program, press the L key of your keyboard.
 
----
-
 #  Introduction Video
 
 - Demonstrates how to use the product and our design philosophy.
-
-[ARmouse灵指空鼠](https://www.bilibili.com/video/BV1ATtnz7ENJ/?share_source=copy_web&vd_source=b222cdbe365757e99b2f310007175a94)
+https://www.bilibili.com/video/BV1ATtnz7ENJ/?share_source=copy_web&vd_source=b222cdbe365757e99b2f310007175a94
 
 <br>
-
----
 
 # Authors
 
@@ -161,7 +164,7 @@ pip install opencv-python==4.3.038
 - Weng LiuChen
 - Ma Zhe
 
----
+<br>
 
 # Contacts
 - WeChat: `Alexis_12_Z`  
