@@ -13,7 +13,7 @@ https://alexisz12.github.io/ARmouse-site/
 
 # Download
 
-- Download the exe files in [quark](ttps://pan.quark.cn/s/5be2ee1480e6) or [github](https://github.com/AlexisZ12/ARmouseEXE)
+- Download the exe files in [quark](https://pan.quark.cn/s/5be2ee1480e6) or [github](https://github.com/AlexisZ12/ARmouseEXE)
 - If you want to know how it works, you can download the source codes in [github](https://github.com/AlexisZ12/ARmouse) as well.
 
 <br>
